@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/salva-demo/:/",
-    "/content/salva-demo/metadata.json:/metadata.json",
-    "/content/salva-demo/redirects.json:/redirects.json",
-    "/content/salva-demo/configuration.json:/configuration.json"
+    "/content/marcsite/:/",
+    "/content/marcsite/metadata.json:/metadata.json",
+    "/content/marcsite/redirects.json:/redirects.json",
+    "/content/marcsite/configuration.json:/configuration.json"
   ]
 }
